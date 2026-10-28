@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre_premio": "Televisor",
+        "descripcion": "Smart TV 50 pulgadas",
+        "estado": "Disponible"
+    },
+    {
+        "id": 2,
+        "nombre_premio": "cafetera",
+        "descripcion": "Cafetera electronica con bateria",
+        "estado": "Disponible"
+    },
+    {
+        "id": 3,
+        "nombre_premio": "Set de cubiertos",
+        "descripcion": "Set 10 tenedores, 10 cucharas, 10 cuchillos",
+        "estado": "Disponible"
+    }
+]
